@@ -1,3 +1,4 @@
+# Added comments TFI - 17 september 2021
 import pickle
 import numpy as np
 from typing import List
